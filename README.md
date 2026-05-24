@@ -27,6 +27,3 @@ A lightweight and fully functional Desktop Calculator application built using Co
 * Locate the main Java file (the file containing the `public static void main` method, e.g., `Calculator.java`) inside the `src` folder.
 * Right-click on the file -> **Run As** -> **Java Application**.
 * The Calculator desktop window will pop up instantly.
-* Locate the main Java file (the file containing the `public static void main` method, e.g., `Notepad.java`) inside the `src` folder.
-* Right-click on the file -> **Run As** -> **Java Application**.
-* The Notepad desktop window will pop up instantly.
